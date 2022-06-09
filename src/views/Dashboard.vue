@@ -18,7 +18,8 @@
       O foco principal será a realização de um banco de dados com responsáveis
       de crianças com APLV, para que haja o apoio às famílias, por meio de doações de fórmulas por 
       empresas que tenham essa fórmula sobressalente e/ou outras pessoas que se sensibilizarem a fazer a doação.
-      Com este cadastro, quem estiver interessado em fazer a doação, filtrará a família mais próxima de sua residência e agendará a entrega em local firmado em comum acordo. <a href="https://apoioaplv.netlify.app/sobre"><i class="bi-font bi bi-chevron-double-right">Mais Informaçoes...</i></a></p>
+      Com este cadastro, quem estiver interessado em fazer a doação, filtrará a família mais próxima de sua residência e agendará a entrega em local firmado em comum acordo. 
+      <a href="https://apoioaplv.herokuapp.com/sobre"><i class="bi-font bi bi-chevron-double-right">Mais Informaçoes...</i></a></p>
 </div>
 </div>
 </body>
