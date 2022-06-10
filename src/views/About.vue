@@ -8,6 +8,16 @@
   </div>
   
 <div class="container">
+
+<!--Ferramenta VLibras Widget-->
+
+  <div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+      <div class="vw-plugin-top-wrapper">
+      </div>
+    </div>
+  </div>
   
   <h3 class="text-start ">O que é APLV ?</h3>
 
@@ -213,7 +223,5 @@ h3{
   margin-top: 20px;
   margin-bottom: 90px;
 }
-
-
   
 </style>
