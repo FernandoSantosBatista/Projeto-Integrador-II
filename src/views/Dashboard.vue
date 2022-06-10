@@ -9,16 +9,7 @@
   </div>
   <div class="container">
     
-    <!--Ferramenta VLibras Widget-->
-    
-    <div vw class="enabled">
-      <div vw-access-button class="active"></div>
-        <div vw-plugin-wrapper>
-          <div class="vw-plugin-top-wrapper">
-        </div>
-      </div>
-    </div>
-  
+   
     <h2 class="col h3 text-right">Nosso Objetivo</h2>
     <h3 class="text-right">Ajudar....</h3>
     <p >O objetivo deste projeto é realizar um grupo de apoio a famílias de 
